@@ -18,6 +18,8 @@ body {
     margin: 40px;
 }
 
+
+
 #radio_card {
     border: 2px solid black;
     margin: 10px;
@@ -27,12 +29,19 @@ body {
 }
 
 #radio_card_2 {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 20px;
     border: 10px solid #b73225;
     border-radius: 25px;
     padding-top: 20px;
     margin: 15px;
     background-color: #dce1e3;
 
+}
+
+#radio_card_body {
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
 }
 
 #radio_image {
@@ -49,7 +58,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     color: #b73225;
-    font-size: 40px;
+    font-size: 60px;
     text-shadow: 1px 1px black;
     margin: 40px;
 

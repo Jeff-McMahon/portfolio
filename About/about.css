@@ -1,0 +1,9 @@
+body {
+    background-color: #004e7c;
+    background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
+}
+
+#profile_pic {
+    height: 300px;
+    width: 400px;
+}
