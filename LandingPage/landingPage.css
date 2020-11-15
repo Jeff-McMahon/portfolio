@@ -1,0 +1,48 @@
+body {
+    background-image: url('../images/diamondtwo.jpg');
+}
+
+#card {
+    border: 3px solid #6643ac;
+    margin-left: 5px;
+    box-shadow: 4px 4px #6643ac;
+    border-radius: 15px;
+    
+}
+
+#card_text {
+    text-align: center;
+    background-color: beige;
+}
+
+#page_footer {
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: beige;
+    font-size: 35px;
+    text-shadow: 3px 3px #6643ac;
+
+}
+#headline {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: beige;
+    font-size: 40px;
+    text-shadow: 3px 3px#6643ac ;
+    margin-top: 40px;
+}
+
+#main_page {
+    margin-top: 40px;
+}
+
+#main_paragraph {
+    font-family: 'Work Sans', sans-serif;
+}
+
+#nav_button {
+    background-color: #6643ac;
+}
+
+

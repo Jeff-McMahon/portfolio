@@ -1,0 +1,56 @@
+
+body {
+    background-image: url('../images/texture.png');
+}
+#current_block {
+    display: inline-block;
+    width: 290px;
+    height: 440px;
+    margin: 10px;
+}
+
+#current_headline {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #b73225;
+    font-size: 40px;
+    text-shadow: 1px 1px black;
+    margin: 40px;
+}
+
+#radio_card {
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+    border-radius: 15px;
+    
+}
+
+#radio_card_2 {
+    border: 10px solid #b73225;
+    border-radius: 25px;
+    padding-top: 20px;
+    margin: 15px;
+    background-color: #dce1e3;
+
+}
+
+#radio_image {
+    height: 120px;
+    width: 250px;
+}
+
+#radio_row {
+    margin: 40px;
+    display: inline-flex;
+}
+
+#radio_headline {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: #b73225;
+    font-size: 40px;
+    text-shadow: 1px 1px black;
+    margin: 40px;
+
+}
