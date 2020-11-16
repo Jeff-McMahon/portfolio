@@ -3,7 +3,39 @@ body {
     background-image: url("https://www.transparenttextures.com/patterns/blizzard.png");
 }
 
+#about_container {
+    margin-top: 40px;
+}
+
+#about_row {
+    padding: 10px;
+}
+
+#about_headline {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: beige;
+    font-size: 40px;
+    text-shadow: 3px 3px#6643ac ;
+    padding-top: 50px;
+}
+
+#about_text {
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    color: beige;
+    font-size: large;
+}
 #profile_pic {
     height: 300px;
     width: 400px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+
+#profile_pic_2 {
+    height: 350px;
+    width: 450px;
+    border-radius: 50px;
+    margin: 30px;
 }
