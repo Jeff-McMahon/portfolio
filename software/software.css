@@ -1,0 +1,27 @@
+body {
+    background-image: url('../images/keyboard.jpg');
+}
+
+
+
+#contain {
+    text-align: center;
+}
+
+#eda_text {
+    border-radius: 25px;
+}
+#headline {
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#text {
+    color: beige;
+    text-align: center;
+    padding-top: 20px;
+    font-family: 'Work Sans', sans-serif;
+}
