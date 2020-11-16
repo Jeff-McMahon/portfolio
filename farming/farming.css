@@ -1,0 +1,39 @@
+body {
+    background-image: url('../images/field.jpg');
+}
+
+#card_body {
+    color: white;
+    background-color: #5c5f58;
+
+
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: large;
+}
+
+#farmingtext {
+    color: white;
+    background-color: #5c5f58;
+    border: 5px solid #004e7c;
+    border-radius: 25px;
+    padding-top: 15px;
+    text-align: center;
+    font-family: 'Work Sans', sans-serif;
+    font-size: large;
+}
+
+#ffa {
+    border: 5px solid #004e7c;
+    border-radius: 25px;
+}
+
+#toprow {
+    margin-top: 60px;
+}
+
+#secondrow {
+    margin: 20px;
+
+}
