@@ -24,9 +24,10 @@ body {
     text-align: center;
     font-family: 'Work Sans', sans-serif;
     color: beige;
-    font-size: large;
+    font-size: x-large;
 }
 #profile_pic {
+    margin-top: 100px;
     height: 300px;
     width: 400px;
     border-radius: 50px;
@@ -34,8 +35,16 @@ body {
 }
 
 #profile_pic_2 {
+    margin-top: 130px;
+    margin-left: 30px;
     height: 350px;
     width: 450px;
     border-radius: 50px;
-    margin: 30px;
+}
+
+#profile_pic_3 {
+
+    height: 350px;
+    width: 450px;
+    border-radius: 50px;
 }
