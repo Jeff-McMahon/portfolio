@@ -25,6 +25,7 @@ body {
 }
 
 #ffa {
+    margin-top: 20px;
     border: 5px solid #004e7c;
     border-radius: 25px;
 }
