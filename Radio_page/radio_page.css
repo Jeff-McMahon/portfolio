@@ -4,6 +4,7 @@ body {
 }
 #current_block {
     display: inline-block;
+
     width: 290px;
     height: 440px;
     margin: 10px;
@@ -16,6 +17,10 @@ body {
     font-size: 40px;
     text-shadow: 1px 1px black;
     margin: 40px;
+}
+
+#current_row {
+    text-align: center;
 }
 
 
